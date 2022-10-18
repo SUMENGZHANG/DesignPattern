@@ -9,8 +9,11 @@
         <module name="DesignPattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DesignPattern" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="DesignPattern" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
   </component>
 </project>
