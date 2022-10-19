@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/StrategyPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/ObserverDesignPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/SingletonPattern" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
